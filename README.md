@@ -4,7 +4,7 @@ Javascript Advanced Project per <a href="https://www.start2impact.it/">Start2Imp
 
 The purpose is to show the life scores on a chosen city of interest with the use of API <a href="https://developers.teleport.org/api/">Teleport</a>.
 
-##How to use
+## How to use
 Type your favourite city in the search bar and click "enter", the city's scores will appear, showing the following information:
 - Housing
 - Cost of Living
